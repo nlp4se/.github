@@ -1,11 +1,11 @@
 # **GESSI - NLP4SE**  
 
 This research line explores **state-of-the-art natural language processing (NLP)** to improve and extend **software engineering** tasks, including:  
-- 📄 Requirements specification  
-- 🛠️ Code generation  
+- 📄 Requirements specification and traceability
 - 📊 Feedback analysis  
+- 🤖 Agentic systems  
 
-We also investigate how **large language models (LLM)** can create new opportunities to innovate and enhance these tasks. Our mission is to provide **open-source tools** for both researchers and practitioners, contributing to the field from both **scientific** and **technical** perspectives.
+Our mission is to provide **open-source tools** for both researchers and practitioners, contributing to the field from both **scientific** and **technical** perspectives.
 
 ---
 
